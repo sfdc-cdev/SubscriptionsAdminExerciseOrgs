@@ -1,0 +1,14 @@
+{
+  "orgName": "Test Org",
+  "hasSampleData": false,
+  "edition": "Developer",
+  "adminEmail": "eltoroit@mailinator.com",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
