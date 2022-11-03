@@ -1,8 +1,7 @@
 {
-  "orgName": "Test Org",
-  "hasSampleData": false,
-  "edition": "Developer",
+  "orgName": "workshops",
   "adminEmail": "eltoroit@mailinator.com",
+  "template": "0TT1E000000brph",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
